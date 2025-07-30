@@ -6,7 +6,7 @@ Ovaj projekat implementira jednostavan **ETL pipeline** koristeći `Python`, sa 
 - **Silver**: obrada i transformacije podataka (merge i izračunavanja),
 - **Gold**: agregacije za analitiku.
 
-## 🛠️ Kako pokrenuti projekat
+## Kako pokrenuti projekat
 
 Da biste pokrenuli ETL pipeline i generisali vizualizacije, pratite sledeće korake:
 
